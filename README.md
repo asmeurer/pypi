@@ -1,4 +1,4 @@
-A dump of the PyPI metadata, which some analysis
+A dump of the PyPI metadata, with some analysis
 
 The goal was to get order the packages on PyPI by download count.
 
